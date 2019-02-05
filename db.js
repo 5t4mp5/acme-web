@@ -1,5 +1,3 @@
-//methods to get back user and users
-
 const pg = require('pg');
 const client = new pg.Client('postgress://localhost/acme_company');
 
